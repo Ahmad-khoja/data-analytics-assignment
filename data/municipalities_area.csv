@@ -1,0 +1,584 @@
+"11ra -- Tunnuslukuja väestöstä alueittain, 1990-2024"
+
+"Alue";"Tiedot";"2023"
+"KOKO MAA";"Maapinta-ala, km²";303610.99
+"Akaa";"Maapinta-ala, km²";293.27
+"Alajärvi";"Maapinta-ala, km²";1008.85
+"Alavieska";"Maapinta-ala, km²";251.54
+"Alavus";"Maapinta-ala, km²";1087.18
+"Asikkala";"Maapinta-ala, km²";563.41
+"Askola";"Maapinta-ala, km²";212.44
+"Aura";"Maapinta-ala, km²";95.01
+"Brändö";"Maapinta-ala, km²";108.28
+"Eckerö";"Maapinta-ala, km²";107.74
+"Enonkoski";"Maapinta-ala, km²";305.59
+"Enontekiö";"Maapinta-ala, km²";7953.44
+"Espoo";"Maapinta-ala, km²";312.38
+"Eura";"Maapinta-ala, km²";578.91
+"Eurajoki";"Maapinta-ala, km²";515.03
+"Evijärvi";"Maapinta-ala, km²";354.15
+"Finström";"Maapinta-ala, km²";123.44
+"Forssa";"Maapinta-ala, km²";248.87
+"Föglö";"Maapinta-ala, km²";135.37
+"Geta";"Maapinta-ala, km²";84.55
+"Haapajärvi";"Maapinta-ala, km²";766.48
+"Haapavesi";"Maapinta-ala, km²";1050.63
+"Hailuoto";"Maapinta-ala, km²";205.58
+"Halsua";"Maapinta-ala, km²";412.99
+"Hamina";"Maapinta-ala, km²";609.89
+"Hammarland";"Maapinta-ala, km²";138.63
+"Hankasalmi";"Maapinta-ala, km²";571.69
+"Hanko";"Maapinta-ala, km²";117.60
+"Harjavalta";"Maapinta-ala, km²";123.48
+"Hartola";"Maapinta-ala, km²";542.96
+"Hattula";"Maapinta-ala, km²";357.79
+"Hausjärvi";"Maapinta-ala, km²";389.42
+"Heinola";"Maapinta-ala, km²";675.97
+"Heinävesi";"Maapinta-ala, km²";1030.00
+"Helsinki";"Maapinta-ala, km²";214.51
+"Hirvensalmi";"Maapinta-ala, km²";465.11
+"Hollola";"Maapinta-ala, km²";651.81
+"Huittinen";"Maapinta-ala, km²";532.65
+"Humppila";"Maapinta-ala, km²";147.96
+"Hyrynsalmi";"Maapinta-ala, km²";1421.27
+"Hyvinkää";"Maapinta-ala, km²";322.69
+"Hämeenkyrö";"Maapinta-ala, km²";463.99
+"Hämeenlinna";"Maapinta-ala, km²";1785.56
+"Ii";"Maapinta-ala, km²";1615.71
+"Iisalmi";"Maapinta-ala, km²";763.00
+"Iitti";"Maapinta-ala, km²";589.87
+"Ikaalinen";"Maapinta-ala, km²";750.48
+"Ilmajoki";"Maapinta-ala, km²";576.74
+"Ilomantsi";"Maapinta-ala, km²";2763.44
+"Imatra";"Maapinta-ala, km²";154.99
+"Inari";"Maapinta-ala, km²";15065.87
+"Inkoo";"Maapinta-ala, km²";350.85
+"Isojoki";"Maapinta-ala, km²";642.40
+"Isokyrö";"Maapinta-ala, km²";354.15
+"Janakkala";"Maapinta-ala, km²";547.45
+"Joensuu";"Maapinta-ala, km²";2381.82
+"Jokioinen";"Maapinta-ala, km²";180.42
+"Jomala";"Maapinta-ala, km²";142.96
+"Joroinen";"Maapinta-ala, km²";574.85
+"Joutsa";"Maapinta-ala, km²";867.06
+"Juuka";"Maapinta-ala, km²";1501.63
+"Juupajoki";"Maapinta-ala, km²";258.48
+"Juva";"Maapinta-ala, km²";1163.50
+"Jyväskylä";"Maapinta-ala, km²";1171.03
+"Jämijärvi";"Maapinta-ala, km²";215.08
+"Jämsä";"Maapinta-ala, km²";1571.41
+"Järvenpää";"Maapinta-ala, km²";37.54
+"Kaarina";"Maapinta-ala, km²";150.57
+"Kaavi";"Maapinta-ala, km²";674.10
+"Kajaani";"Maapinta-ala, km²";1834.83
+"Kalajoki";"Maapinta-ala, km²";924.07
+"Kangasala";"Maapinta-ala, km²";658.01
+"Kangasniemi";"Maapinta-ala, km²";1068.89
+"Kankaanpää";"Maapinta-ala, km²";1021.24
+"Kannonkoski";"Maapinta-ala, km²";445.00
+"Kannus";"Maapinta-ala, km²";468.02
+"Karijoki";"Maapinta-ala, km²";185.58
+"Karkkila";"Maapinta-ala, km²";242.44
+"Karstula";"Maapinta-ala, km²";887.06
+"Karvia";"Maapinta-ala, km²";502.22
+"Kaskinen";"Maapinta-ala, km²";10.64
+"Kauhajoki";"Maapinta-ala, km²";1299.01
+"Kauhava";"Maapinta-ala, km²";1313.85
+"Kauniainen";"Maapinta-ala, km²";5.89
+"Kaustinen";"Maapinta-ala, km²";353.91
+"Keitele";"Maapinta-ala, km²";482.89
+"Kemi";"Maapinta-ala, km²";95.38
+"Kemijärvi";"Maapinta-ala, km²";3503.99
+"Keminmaa";"Maapinta-ala, km²";627.27
+"Kemiönsaari";"Maapinta-ala, km²";687.13
+"Kempele";"Maapinta-ala, km²";110.14
+"Kerava";"Maapinta-ala, km²";30.63
+"Keuruu";"Maapinta-ala, km²";1257.97
+"Kihniö";"Maapinta-ala, km²";357.21
+"Kinnula";"Maapinta-ala, km²";460.21
+"Kirkkonummi";"Maapinta-ala, km²";366.60
+"Kitee";"Maapinta-ala, km²";1253.82
+"Kittilä";"Maapinta-ala, km²";8095.14
+"Kiuruvesi";"Maapinta-ala, km²";1328.24
+"Kivijärvi";"Maapinta-ala, km²";483.95
+"Kokemäki";"Maapinta-ala, km²";480.43
+"Kokkola";"Maapinta-ala, km²";1446.28
+"Kolari";"Maapinta-ala, km²";2559.34
+"Konnevesi";"Maapinta-ala, km²";512.94
+"Kontiolahti";"Maapinta-ala, km²";799.81
+"Korsnäs";"Maapinta-ala, km²";236.27
+"Koski Tl";"Maapinta-ala, km²";191.50
+"Kotka";"Maapinta-ala, km²";272.13
+"Kouvola";"Maapinta-ala, km²";2557.59
+"Kristiinankaupunki";"Maapinta-ala, km²";683.25
+"Kruunupyy";"Maapinta-ala, km²";712.85
+"Kuhmo";"Maapinta-ala, km²";4807.31
+"Kuhmoinen";"Maapinta-ala, km²";660.93
+"Kumlinge";"Maapinta-ala, km²";99.17
+"Kuopio";"Maapinta-ala, km²";3241.82
+"Kuortane";"Maapinta-ala, km²";462.37
+"Kurikka";"Maapinta-ala, km²";1724.69
+"Kustavi";"Maapinta-ala, km²";166.20
+"Kuusamo";"Maapinta-ala, km²";4979.18
+"Kyyjärvi";"Maapinta-ala, km²";448.22
+"Kärkölä";"Maapinta-ala, km²";256.50
+"Kärsämäki";"Maapinta-ala, km²";698.32
+"Kökar";"Maapinta-ala, km²";63.59
+"Lahti";"Maapinta-ala, km²";459.55
+"Laihia";"Maapinta-ala, km²";505.16
+"Laitila";"Maapinta-ala, km²";532.02
+"Lapinjärvi";"Maapinta-ala, km²";329.89
+"Lapinlahti";"Maapinta-ala, km²";1096.88
+"Lappajärvi";"Maapinta-ala, km²";420.88
+"Lappeenranta";"Maapinta-ala, km²";1434.05
+"Lapua";"Maapinta-ala, km²";737.27
+"Laukaa";"Maapinta-ala, km²";648.50
+"Lemi";"Maapinta-ala, km²";218.01
+"Lemland";"Maapinta-ala, km²";113.30
+"Lempäälä";"Maapinta-ala, km²";269.58
+"Leppävirta";"Maapinta-ala, km²";1136.26
+"Lestijärvi";"Maapinta-ala, km²";480.08
+"Lieksa";"Maapinta-ala, km²";3417.83
+"Lieto";"Maapinta-ala, km²";300.53
+"Liminka";"Maapinta-ala, km²";637.32
+"Liperi";"Maapinta-ala, km²";727.47
+"Lohja";"Maapinta-ala, km²";940.17
+"Loimaa";"Maapinta-ala, km²";848.09
+"Loppi";"Maapinta-ala, km²";597.69
+"Loviisa";"Maapinta-ala, km²";820.06
+"Luhanka";"Maapinta-ala, km²";214.50
+"Lumijoki";"Maapinta-ala, km²";214.12
+"Lumparland";"Maapinta-ala, km²";36.40
+"Luoto";"Maapinta-ala, km²";142.78
+"Luumäki";"Maapinta-ala, km²";750.16
+"Maalahti";"Maapinta-ala, km²";522.10
+"Maarianhamina - Mariehamn";"Maapinta-ala, km²";11.83
+"Marttila";"Maapinta-ala, km²";195.31
+"Masku";"Maapinta-ala, km²";174.89
+"Merijärvi";"Maapinta-ala, km²";229.69
+"Merikarvia";"Maapinta-ala, km²";446.28
+"Miehikkälä";"Maapinta-ala, km²";422.63
+"Mikkeli";"Maapinta-ala, km²";2548.25
+"Muhos";"Maapinta-ala, km²";784.59
+"Multia";"Maapinta-ala, km²";733.26
+"Muonio";"Maapinta-ala, km²";1904.05
+"Mustasaari";"Maapinta-ala, km²";849.50
+"Muurame";"Maapinta-ala, km²";144.06
+"Mynämäki";"Maapinta-ala, km²";519.83
+"Myrskylä";"Maapinta-ala, km²";200.47
+"Mäntsälä";"Maapinta-ala, km²";580.90
+"Mänttä-Vilppula";"Maapinta-ala, km²";534.78
+"Mäntyharju";"Maapinta-ala, km²";981.31
+"Naantali";"Maapinta-ala, km²";312.59
+"Nakkila";"Maapinta-ala, km²";182.93
+"Nivala";"Maapinta-ala, km²";527.32
+"Nokia";"Maapinta-ala, km²";288.32
+"Nousiainen";"Maapinta-ala, km²";198.94
+"Nurmes";"Maapinta-ala, km²";2401.58
+"Nurmijärvi";"Maapinta-ala, km²";361.91
+"Närpiö";"Maapinta-ala, km²";977.77
+"Orimattila";"Maapinta-ala, km²";785.38
+"Oripää";"Maapinta-ala, km²";117.78
+"Orivesi";"Maapinta-ala, km²";799.72
+"Oulainen";"Maapinta-ala, km²";587.56
+"Oulu";"Maapinta-ala, km²";2972.52
+"Outokumpu";"Maapinta-ala, km²";446.25
+"Padasjoki";"Maapinta-ala, km²";523.10
+"Paimio";"Maapinta-ala, km²";238.52
+"Paltamo";"Maapinta-ala, km²";918.81
+"Parainen";"Maapinta-ala, km²";884.04
+"Parikkala";"Maapinta-ala, km²";591.91
+"Parkano";"Maapinta-ala, km²";852.91
+"Pedersören kunta";"Maapinta-ala, km²";794.24
+"Pelkosenniemi";"Maapinta-ala, km²";1836.29
+"Pello";"Maapinta-ala, km²";1738.16
+"Perho";"Maapinta-ala, km²";747.86
+"Petäjävesi";"Maapinta-ala, km²";456.42
+"Pieksämäki";"Maapinta-ala, km²";1569.02
+"Pielavesi";"Maapinta-ala, km²";1153.23
+"Pietarsaari";"Maapinta-ala, km²";88.52
+"Pihtipudas";"Maapinta-ala, km²";1074.94
+"Pirkkala";"Maapinta-ala, km²";81.43
+"Polvijärvi";"Maapinta-ala, km²";804.62
+"Pomarkku";"Maapinta-ala, km²";301.22
+"Pori";"Maapinta-ala, km²";1156.48
+"Pornainen";"Maapinta-ala, km²";146.53
+"Porvoo";"Maapinta-ala, km²";654.92
+"Posio";"Maapinta-ala, km²";3039.66
+"Pudasjärvi";"Maapinta-ala, km²";5638.43
+"Pukkila";"Maapinta-ala, km²";145.09
+"Punkalaidun";"Maapinta-ala, km²";361.10
+"Puolanka";"Maapinta-ala, km²";2461.13
+"Puumala";"Maapinta-ala, km²";794.12
+"Pyhtää";"Maapinta-ala, km²";324.63
+"Pyhäjoki";"Maapinta-ala, km²";543.63
+"Pyhäjärvi";"Maapinta-ala, km²";1310.32
+"Pyhäntä";"Maapinta-ala, km²";810.16
+"Pyhäranta";"Maapinta-ala, km²";143.67
+"Pälkäne";"Maapinta-ala, km²";560.68
+"Pöytyä";"Maapinta-ala, km²";749.98
+"Raahe";"Maapinta-ala, km²";1013.78
+"Raasepori";"Maapinta-ala, km²";1152.14
+"Raisio";"Maapinta-ala, km²";48.76
+"Rantasalmi";"Maapinta-ala, km²";559.65
+"Ranua";"Maapinta-ala, km²";3454.19
+"Rauma";"Maapinta-ala, km²";496.30
+"Rautalampi";"Maapinta-ala, km²";538.95
+"Rautavaara";"Maapinta-ala, km²";1150.81
+"Rautjärvi";"Maapinta-ala, km²";351.48
+"Reisjärvi";"Maapinta-ala, km²";474.40
+"Riihimäki";"Maapinta-ala, km²";121.01
+"Ristijärvi";"Maapinta-ala, km²";835.83
+"Rovaniemi";"Maapinta-ala, km²";7581.51
+"Ruokolahti";"Maapinta-ala, km²";942.16
+"Ruovesi";"Maapinta-ala, km²";776.93
+"Rusko";"Maapinta-ala, km²";127.16
+"Rääkkylä";"Maapinta-ala, km²";428.05
+"Saarijärvi";"Maapinta-ala, km²";1251.76
+"Salla";"Maapinta-ala, km²";5729.77
+"Salo";"Maapinta-ala, km²";1989.77
+"Saltvik";"Maapinta-ala, km²";152.28
+"Sastamala";"Maapinta-ala, km²";1429.12
+"Sauvo";"Maapinta-ala, km²";252.78
+"Savitaipale";"Maapinta-ala, km²";539.07
+"Savonlinna";"Maapinta-ala, km²";2237.90
+"Savukoski";"Maapinta-ala, km²";6440.08
+"Seinäjoki";"Maapinta-ala, km²";1431.59
+"Sievi";"Maapinta-ala, km²";786.41
+"Siikainen";"Maapinta-ala, km²";463.32
+"Siikajoki";"Maapinta-ala, km²";1055.47
+"Siikalatva";"Maapinta-ala, km²";2173.30
+"Siilinjärvi";"Maapinta-ala, km²";401.00
+"Simo";"Maapinta-ala, km²";1446.29
+"Sipoo";"Maapinta-ala, km²";339.65
+"Siuntio";"Maapinta-ala, km²";241.54
+"Sodankylä";"Maapinta-ala, km²";11694.13
+"Soini";"Maapinta-ala, km²";551.95
+"Somero";"Maapinta-ala, km²";668.06
+"Sonkajärvi";"Maapinta-ala, km²";1465.94
+"Sotkamo";"Maapinta-ala, km²";2648.90
+"Sottunga";"Maapinta-ala, km²";28.05
+"Sulkava";"Maapinta-ala, km²";584.38
+"Sund";"Maapinta-ala, km²";108.21
+"Suomussalmi";"Maapinta-ala, km²";5270.37
+"Suonenjoki";"Maapinta-ala, km²";713.56
+"Sysmä";"Maapinta-ala, km²";666.75
+"Säkylä";"Maapinta-ala, km²";406.85
+"Taipalsaari";"Maapinta-ala, km²";344.79
+"Taivalkoski";"Maapinta-ala, km²";2438.21
+"Taivassalo";"Maapinta-ala, km²";140.62
+"Tammela";"Maapinta-ala, km²";640.55
+"Tampere";"Maapinta-ala, km²";525.02
+"Tervo";"Maapinta-ala, km²";347.73
+"Tervola";"Maapinta-ala, km²";1559.91
+"Teuva";"Maapinta-ala, km²";554.78
+"Tohmajärvi";"Maapinta-ala, km²";837.84
+"Toholampi";"Maapinta-ala, km²";609.14
+"Toivakka";"Maapinta-ala, km²";361.46
+"Tornio";"Maapinta-ala, km²";1188.75
+"Turku";"Maapinta-ala, km²";245.63
+"Tuusniemi";"Maapinta-ala, km²";543.21
+"Tuusula";"Maapinta-ala, km²";219.53
+"Tyrnävä";"Maapinta-ala, km²";491.83
+"Ulvila";"Maapinta-ala, km²";400.84
+"Urjala";"Maapinta-ala, km²";475.52
+"Utajärvi";"Maapinta-ala, km²";1669.46
+"Utsjoki";"Maapinta-ala, km²";5147.16
+"Uurainen";"Maapinta-ala, km²";347.98
+"Uusikaarlepyy";"Maapinta-ala, km²";732.86
+"Uusikaupunki";"Maapinta-ala, km²";503.62
+"Vaala";"Maapinta-ala, km²";1302.31
+"Vaasa";"Maapinta-ala, km²";364.84
+"Valkeakoski";"Maapinta-ala, km²";272.05
+"Vantaa";"Maapinta-ala, km²";238.38
+"Varkaus";"Maapinta-ala, km²";385.62
+"Vehmaa";"Maapinta-ala, km²";188.88
+"Vesanto";"Maapinta-ala, km²";422.63
+"Vesilahti";"Maapinta-ala, km²";301.06
+"Veteli";"Maapinta-ala, km²";502.12
+"Vieremä";"Maapinta-ala, km²";925.28
+"Vihti";"Maapinta-ala, km²";522.02
+"Viitasaari";"Maapinta-ala, km²";1248.51
+"Vimpeli";"Maapinta-ala, km²";287.23
+"Virolahti";"Maapinta-ala, km²";372.56
+"Virrat";"Maapinta-ala, km²";1162.52
+"Vårdö";"Maapinta-ala, km²";101.79
+"Vöyri";"Maapinta-ala, km²";782.14
+"Ylitornio";"Maapinta-ala, km²";2030.46
+"Ylivieska";"Maapinta-ala, km²";569.84
+"Ylöjärvi";"Maapinta-ala, km²";1115.75
+"Ypäjä";"Maapinta-ala, km²";182.76
+"Ähtäri";"Maapinta-ala, km²";805.79
+"Äänekoski";"Maapinta-ala, km²";884.60
+"MA1 MANNER - SUOMI";"Maapinta-ala, km²";302055.40
+"SA1 Helsinki-Uusimaa";"Maapinta-ala, km²";9106.77
+"SA2 Etelä-Suomi";"Maapinta-ala, km²";31472.71
+"SA3 Länsi-Suomi";"Maapinta-ala, km²";58316.03
+"SA4 Pohjois- ja Itä-Suomi";"Maapinta-ala, km²";203159.89
+"MK01 Uusimaa";"Maapinta-ala, km²";9106.77
+"MK02 Varsinais-Suomi";"Maapinta-ala, km²";10671.88
+"MK04 Satakunta";"Maapinta-ala, km²";7823.26
+"MK05 Kanta-Häme";"Maapinta-ala, km²";5199.48
+"MK06 Pirkanmaa";"Maapinta-ala, km²";13248.86
+"MK07 Päijät-Häme";"Maapinta-ala, km²";5715.30
+"MK08 Kymenlaakso";"Maapinta-ala, km²";4559.43
+"MK09 Etelä-Karjala";"Maapinta-ala, km²";5326.62
+"MK10 Etelä-Savo";"Maapinta-ala, km²";12277.72
+"MK11 Pohjois-Savo";"Maapinta-ala, km²";17346.00
+"MK12 Pohjois-Karjala";"Maapinta-ala, km²";18794.16
+"MK13 Keski-Suomi";"Maapinta-ala, km²";16042.53
+"MK14 Etelä-Pohjanmaa";"Maapinta-ala, km²";13798.46
+"MK15 Pohjanmaa";"Maapinta-ala, km²";7402.92
+"MK16 Keski-Pohjanmaa";"Maapinta-ala, km²";5020.40
+"MK17 Pohjois-Pohjanmaa";"Maapinta-ala, km²";36832.32
+"MK18 Kainuu";"Maapinta-ala, km²";20198.45
+"MK19 Lappi";"Maapinta-ala, km²";92690.84
+"MA2 AHVENANMAA";"Maapinta-ala, km²";1555.59
+"SA5 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"MK21 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"YTA1 Etelä-Suomen yhteistyöalue";"Maapinta-ala, km²";24708.12
+"YTA2 Itä-Suomen yhteistyöalue";"Maapinta-ala, km²";64460.41
+"YTA3 Sisä-Suomen yhteistyöalue";"Maapinta-ala, km²";32246.80
+"YTA4 Länsi-Suomen yhteistyöalue";"Maapinta-ala, km²";25898.06
+"YTA5 Pohjois-Suomen yhteistyöalue";"Maapinta-ala, km²";154742.01
+"YTA6 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"HVA01 Itä-Uudenmaan hyvinvointialue";"Maapinta-ala, km²";2702.52
+"HVA02 Keski-Uudenmaan hyvinvointialue";"Maapinta-ala, km²";1669.10
+"HVA03 Länsi-Uudenmaan hyvinvointialue";"Maapinta-ala, km²";4251.63
+"HVA04 Vantaan ja Keravan hyvinvointialue";"Maapinta-ala, km²";269.01
+"HVA05 Varsinais-Suomen hyvinvointialue";"Maapinta-ala, km²";10671.88
+"HVA06 Satakunnan hyvinvointialue";"Maapinta-ala, km²";7823.26
+"HVA07 Kanta-Hämeen hyvinvointialue";"Maapinta-ala, km²";5199.48
+"HVA08 Pirkanmaan hyvinvointialue";"Maapinta-ala, km²";13248.86
+"HVA09 Päijät-Hämeen hyvinvointialue";"Maapinta-ala, km²";5715.30
+"HVA10 Kymenlaakson hyvinvointialue";"Maapinta-ala, km²";4559.43
+"HVA11 Etelä-Karjalan hyvinvointialue";"Maapinta-ala, km²";5326.62
+"HVA12 Etelä-Savon hyvinvointialue";"Maapinta-ala, km²";12277.72
+"HVA13 Pohjois-Savon hyvinvointialue";"Maapinta-ala, km²";17346.00
+"HVA14 Pohjois-Karjalan hyvinvointialue";"Maapinta-ala, km²";18794.16
+"HVA15 Keski-Suomen hyvinvointialue";"Maapinta-ala, km²";16042.53
+"HVA16 Etelä-Pohjanmaan hyvinvointialue";"Maapinta-ala, km²";13798.46
+"HVA17 Pohjanmaan hyvinvointialue";"Maapinta-ala, km²";7402.92
+"HVA18 Keski-Pohjanmaan hyvinvointialue";"Maapinta-ala, km²";5020.40
+"HVA19 Pohjois-Pohjanmaan hyvinvointialue";"Maapinta-ala, km²";36832.32
+"HVA20 Kainuun hyvinvointialue";"Maapinta-ala, km²";20198.45
+"HVA21 Lapin hyvinvointialue";"Maapinta-ala, km²";92690.84
+"HVA90 Helsingin kaupunki";"Maapinta-ala, km²";214.51
+"HVA91 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"SK011 Helsinki";"Maapinta-ala, km²";5123.31
+"SK014 Raasepori";"Maapinta-ala, km²";1620.59
+"SK015 Porvoo";"Maapinta-ala, km²";1212.92
+"SK016 Loviisa";"Maapinta-ala, km²";1149.95
+"SK021 Åboland-Turunmaa";"Maapinta-ala, km²";1571.17
+"SK022 Salo";"Maapinta-ala, km²";2657.83
+"SK023 Turku";"Maapinta-ala, km²";2570.20
+"SK024 Vakka-Suomi";"Maapinta-ala, km²";1675.01
+"SK025 Loimaa";"Maapinta-ala, km²";2197.67
+"SK041 Rauma";"Maapinta-ala, km²";1997.09
+"SK043 Pori";"Maapinta-ala, km²";3624.31
+"SK044 Pohjois-Satakunta";"Maapinta-ala, km²";2201.86
+"SK051 Hämeenlinna";"Maapinta-ala, km²";2690.80
+"SK052 Riihimäki";"Maapinta-ala, km²";1108.12
+"SK053 Forssa";"Maapinta-ala, km²";1400.56
+"SK061 Luoteis-Pirkanmaa";"Maapinta-ala, km²";1960.60
+"SK063 Etelä-Pirkanmaa";"Maapinta-ala, km²";1040.84
+"SK064 Tampere";"Maapinta-ala, km²";5724.49
+"SK068 Lounais-Pirkanmaa";"Maapinta-ala, km²";1790.22
+"SK069 Ylä-Pirkanmaa";"Maapinta-ala, km²";2732.71
+"SK071 Lahti";"Maapinta-ala, km²";5715.30
+"SK081 Kouvola";"Maapinta-ala, km²";2557.59
+"SK082 Kotka-Hamina";"Maapinta-ala, km²";2001.84
+"SK091 Lappeenranta";"Maapinta-ala, km²";3286.08
+"SK093 Imatra";"Maapinta-ala, km²";2040.54
+"SK101 Mikkeli";"Maapinta-ala, km²";5857.68
+"SK103 Savonlinna";"Maapinta-ala, km²";3687.52
+"SK105 Pieksämäki";"Maapinta-ala, km²";2732.52
+"SK111 Ylä-Savo";"Maapinta-ala, km²";7215.46
+"SK112 Kuopio";"Maapinta-ala, km²";3642.82
+"SK113 Koillis-Savo";"Maapinta-ala, km²";2368.12
+"SK114 Varkaus";"Maapinta-ala, km²";2096.73
+"SK115 Sisä-Savo";"Maapinta-ala, km²";2022.87
+"SK122 Joensuu";"Maapinta-ala, km²";10455.04
+"SK124 Keski-Karjala";"Maapinta-ala, km²";2519.71
+"SK125 Pielisen Karjala";"Maapinta-ala, km²";5819.41
+"SK131 Jyväskylä";"Maapinta-ala, km²";3701.14
+"SK132 Joutsa";"Maapinta-ala, km²";1081.56
+"SK133 Keuruu";"Maapinta-ala, km²";1991.23
+"SK134 Jämsä";"Maapinta-ala, km²";1571.41
+"SK135 Äänekoski";"Maapinta-ala, km²";1397.54
+"SK138 Saarijärvi-Viitasaari";"Maapinta-ala, km²";6299.65
+"SK141 Suupohja";"Maapinta-ala, km²";2681.77
+"SK142 Seinäjoki";"Maapinta-ala, km²";6138.29
+"SK144 Kuusiokunnat";"Maapinta-ala, km²";2355.34
+"SK146 Järviseutu";"Maapinta-ala, km²";2623.06
+"SK152 Vaasa";"Maapinta-ala, km²";3260.01
+"SK153 Sydösterbotten";"Maapinta-ala, km²";1671.66
+"SK154 Jakobstadsregionen";"Maapinta-ala, km²";2471.25
+"SK161 Kaustinen";"Maapinta-ala, km²";3106.10
+"SK162 Kokkola";"Maapinta-ala, km²";1914.30
+"SK171 Oulu";"Maapinta-ala, km²";5416.10
+"SK173 Oulunkaari";"Maapinta-ala, km²";10225.91
+"SK174 Raahe";"Maapinta-ala, km²";2612.88
+"SK175 Haapavesi-Siikalatva";"Maapinta-ala, km²";4034.09
+"SK176 Nivala-Haapajärvi";"Maapinta-ala, km²";3776.84
+"SK177 Ylivieska";"Maapinta-ala, km²";3349.11
+"SK178 Koillismaa";"Maapinta-ala, km²";7417.39
+"SK181 Kehys-Kainuu";"Maapinta-ala, km²";13960.08
+"SK182 Kajaani";"Maapinta-ala, km²";6238.37
+"SK191 Rovaniemi";"Maapinta-ala, km²";11035.70
+"SK192 Kemi-Tornio";"Maapinta-ala, km²";4917.60
+"SK193 Torniolaakso";"Maapinta-ala, km²";3768.62
+"SK194 Itä-Lappi";"Maapinta-ala, km²";20549.79
+"SK196 Tunturi-Lappi";"Maapinta-ala, km²";20511.97
+"SK197 Pohjois-Lappi";"Maapinta-ala, km²";31907.16
+"SK211 Mariehamns stad";"Maapinta-ala, km²";11.83
+"SK212 Ålands landsbygd";"Maapinta-ala, km²";1007.51
+"SK213 Ålands skärgård";"Maapinta-ala, km²";536.25
+"ELY01 Uudenmaan ELY-keskus";"Maapinta-ala, km²";9106.77
+"ELY02 Varsinais-Suomen ELY-keskus";"Maapinta-ala, km²";10671.88
+"ELY03 Satakunnan ELY-keskus";"Maapinta-ala, km²";7823.26
+"ELY04 Hämeen ELY-keskus";"Maapinta-ala, km²";10914.78
+"ELY05 Pirkanmaan ELY-keskus";"Maapinta-ala, km²";13248.86
+"ELY06 Kaakkois-Suomen ELY-keskus";"Maapinta-ala, km²";9886.05
+"ELY07 Etelä-Savon ELY-keskus";"Maapinta-ala, km²";12277.72
+"ELY08 Pohjois-Savon ELY-keskus";"Maapinta-ala, km²";17346.00
+"ELY09 Pohjois-Karjalan ELY-keskus";"Maapinta-ala, km²";18794.16
+"ELY10 Keski-Suomen ELY-keskus";"Maapinta-ala, km²";16042.53
+"ELY11 Etelä-Pohjanmaan ELY-keskus";"Maapinta-ala, km²";13798.46
+"ELY12 Pohjanmaan ELY-keskus";"Maapinta-ala, km²";12423.32
+"ELY13 Pohjois-Pohjanmaan ELY-keskus";"Maapinta-ala, km²";36832.32
+"ELY14 Kainuun ELY-keskus";"Maapinta-ala, km²";20198.45
+"ELY15 Lapin ELY-keskus";"Maapinta-ala, km²";92690.84
+"ELY16 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"AVI1 Etelä-Suomen AVI";"Maapinta-ala, km²";29907.60
+"AVI2 Lounais-Suomen AVI";"Maapinta-ala, km²";18495.14
+"AVI3 Itä-Suomen AVI";"Maapinta-ala, km²";48417.88
+"AVI4 Länsi- ja Sisä-Suomen AVI";"Maapinta-ala, km²";55513.17
+"AVI5 Pohjois-Suomen AVI";"Maapinta-ala, km²";57030.77
+"AVI6 Lapin AVI";"Maapinta-ala, km²";92690.84
+"AVI7 Ahvenanmaan valtionvirasto";"Maapinta-ala, km²";1555.59
+"TA01 Espoo-Kauniainen";"Maapinta-ala, km²";318.27
+"TA02 Etelä-Häme";"Maapinta-ala, km²";1655.57
+"TA03 Etelä-Karjala";"Maapinta-ala, km²";5326.62
+"TA04 Etelä-Kymenlaakso";"Maapinta-ala, km²";2001.84
+"TA05 Etelä-Satakunta";"Maapinta-ala, km²";2529.74
+"TA06 Eteläinen Keski-Suomi";"Maapinta-ala, km²";5996.86
+"TA07 Hanko-Inkoo-Raasepori";"Maapinta-ala, km²";1620.59
+"TA08 Helsinki";"Maapinta-ala, km²";214.51
+"TA09 Jyväskylä-Muurame";"Maapinta-ala, km²";1315.09
+"TA10 Kainuu-Koillismaa";"Maapinta-ala, km²";27615.84
+"TA11 Kerava-Sipoo";"Maapinta-ala, km²";370.28
+"TA12 Keski-Pohjanmaa";"Maapinta-ala, km²";5020.40
+"TA13 Keski-Savo";"Maapinta-ala, km²";3665.75
+"TA14 Keski-Uusimaa";"Maapinta-ala, km²";1669.10
+"TA15 Kirkkonummi-Vihti-Siuntio";"Maapinta-ala, km²";1130.16
+"TA16 Kouvola";"Maapinta-ala, km²";2557.59
+"TA17 Kuopio";"Maapinta-ala, km²";9613.58
+"TA18 Kymppi";"Maapinta-ala, km²";7029.52
+"TA19 Lahti";"Maapinta-ala, km²";459.55
+"TA20 Lohja-Karkkila";"Maapinta-ala, km²";1182.61
+"TA21 Läntinen Pirkanmaa";"Maapinta-ala, km²";4214.81
+"TA22 Meri-Lappi";"Maapinta-ala, km²";6948.06
+"TA23 Mikkelin seutu";"Maapinta-ala, km²";7021.18
+"TA24 Oulun seutu";"Maapinta-ala, km²";15642.01
+"TA25 Pietarsaaren seutu";"Maapinta-ala, km²";1738.39
+"TA26 Pohjanmaa";"Maapinta-ala, km²";4981.28
+"TA27 Pohjoinen Keski-Suomi";"Maapinta-ala, km²";9265.36
+"TA28 Pohjois- ja Itä-Lappi";"Maapinta-ala, km²";52456.95
+"TA29 Pohjois-Karjala";"Maapinta-ala, km²";18794.16
+"TA30 Porvoon seutu";"Maapinta-ala, km²";2362.87
+"TA31 Päijät-Häme";"Maapinta-ala, km²";5255.75
+"TA32 Raahe";"Maapinta-ala, km²";10484.05
+"TA33 Rovaseutu";"Maapinta-ala, km²";11035.70
+"TA34 Salo";"Maapinta-ala, km²";3044.64
+"TA35 Satakunta";"Maapinta-ala, km²";5293.52
+"TA36 Savonlinna";"Maapinta-ala, km²";3687.52
+"TA37 TyöLakeuden työllisyysalue";"Maapinta-ala, km²";2362.48
+"TA38 Suupohjan työllisyysalue";"Maapinta-ala, km²";5089.71
+"TA39 Tampereen seutu";"Maapinta-ala, km²";8499.27
+"TA40 Tunturi-Lappi - Pello";"Maapinta-ala, km²";22250.13
+"TA41 Turku";"Maapinta-ala, km²";7627.24
+"TA42 TyöHäme";"Maapinta-ala, km²";3543.91
+"TA43 Vantaa";"Maapinta-ala, km²";238.38
+"TA44 Ylivieska-Kalajoki-Nivala";"Maapinta-ala, km²";3288.87
+"TA45 Ylä-Savo";"Maapinta-ala, km²";5635.69
+"TA46 Ahvenanmaa";"Maapinta-ala, km²";1555.59
+"TK1 Kaupunkimaiset kunnat";"Maapinta-ala, km²";50475.15
+"TK2 Taajaan asutut kunnat";"Maapinta-ala, km²";72441.07
+"TK3 Maaseutumaiset kunnat";"Maapinta-ala, km²";180694.77
+"VP01 Helsingin vaalipiiri";"Maapinta-ala, km²";214.51
+"VP02 Uudenmaan vaalipiiri";"Maapinta-ala, km²";8892.26
+"VP03 Varsinais-Suomen vaalipiiri";"Maapinta-ala, km²";10671.88
+"VP04 Satakunnan vaalipiiri";"Maapinta-ala, km²";7823.26
+"VP06 Hämeen vaalipiiri";"Maapinta-ala, km²";10914.78
+"VP07 Pirkanmaan vaalipiiri";"Maapinta-ala, km²";13248.86
+"VP08 Kaakkois-Suomen vaalipiiri";"Maapinta-ala, km²";22163.77
+"VP09 Savo-Karjalan vaalipiiri";"Maapinta-ala, km²";36140.16
+"VP10 Vaasan vaalipiiri";"Maapinta-ala, km²";26221.78
+"VP11 Keski-Suomen vaalipiiri";"Maapinta-ala, km²";16042.53
+"VP12 Oulun vaalipiiri";"Maapinta-ala, km²";57030.77
+"VP13 Lapin vaalipiiri";"Maapinta-ala, km²";92690.84
+"VP05 Ahvenanmaan maakunnan vaalipiiri";"Maapinta-ala, km²";1555.59
+"PL5500 Helsingin poliisilaitos";"Maapinta-ala, km²";214.51
+"PL5530 Länsi-Uudenmaan poliisilaitos";"Maapinta-ala, km²";4251.63
+"PL5560 Itä-Uudenmaan poliisilaitos";"Maapinta-ala, km²";4640.63
+"PL5590 Hämeen poliisilaitos";"Maapinta-ala, km²";10914.78
+"PL5620 Kaakkois-Suomen poliisilaitos";"Maapinta-ala, km²";9886.05
+"PL5650 Lounais-Suomen poliisilaitos";"Maapinta-ala, km²";18495.14
+"PL5680 Sisä-Suomen poliisilaitos";"Maapinta-ala, km²";29291.39
+"PL5710 Pohjanmaan poliisilaitos";"Maapinta-ala, km²";26221.78
+"PL5740 Itä-Suomen poliisilaitos";"Maapinta-ala, km²";48417.88
+"PL5770 Oulun poliisilaitos";"Maapinta-ala, km²";57030.77
+"PL5800 Lapin poliisilaitos";"Maapinta-ala, km²";92690.84
+"PL5830 Ålands polismyndighet";"Maapinta-ala, km²";1555.59
+"HO1 Helsingin hovioikeus";"Maapinta-ala, km²";9431.40
+"HO2 Turun hovioikeus";"Maapinta-ala, km²";30675.81
+"HO3 Itä-Suomen hovioikeus";"Maapinta-ala, km²";63694.60
+"HO4 Vaasan hovioikeus";"Maapinta-ala, km²";50087.57
+"HO6 Rovaniemen hovioikeus";"Maapinta-ala, km²";149721.61
+"KO706 Helsingin käräjäoikeus";"Maapinta-ala, km²";214.51
+"KO708 Kanta-Hämeen käräjäoikeus";"Maapinta-ala, km²";5199.48
+"KO713 Pohjois-Karjalan käräjäoikeus";"Maapinta-ala, km²";18794.16
+"KO715 Keski-Suomen käräjäoikeus";"Maapinta-ala, km²";16042.53
+"KO717 Kainuun käräjäoikeus";"Maapinta-ala, km²";20198.45
+"KO725 Kymenlaakson käräjäoikeus";"Maapinta-ala, km²";4234.80
+"KO726 Pohjois-Savon käräjäoikeus";"Maapinta-ala, km²";17346.00
+"KO729 Päijät-Hämeen käräjäoikeus";"Maapinta-ala, km²";5715.30
+"KO730 Lapin käräjäoikeus";"Maapinta-ala, km²";92690.84
+"KO731 Etelä-Karjalan käräjäoikeus";"Maapinta-ala, km²";5326.62
+"KO736 Etelä-Savon käräjäoikeus";"Maapinta-ala, km²";12277.72
+"KO742 Oulun käräjäoikeus";"Maapinta-ala, km²";36832.32
+"KO747 Satakunnan käräjäoikeus";"Maapinta-ala, km²";7823.26
+"KO748 Itä-Uudenmaan käräjäoikeus";"Maapinta-ala, km²";4965.26
+"KO750 Länsi-Uudenmaan käräjäoikeus";"Maapinta-ala, km²";4251.63
+"KO757 Etelä-Pohjanmaan käräjäoikeus";"Maapinta-ala, km²";13798.46
+"KO758 Pirkanmaan käräjäoikeus";"Maapinta-ala, km²";13248.86
+"KO761 Varsinais-Suomen käräjäoikeus";"Maapinta-ala, km²";10671.88
+"KO764 Pohjanmaan käräjäoikeus";"Maapinta-ala, km²";12423.32
+"KO769 Ahvenanmaan käräjäoikeus";"Maapinta-ala, km²";1555.59
+"FI1 MANNER-SUOMI";"Maapinta-ala, km²";302055.40
+"FI19 Länsi-Suomi";"Maapinta-ala, km²";58316.03
+"FI198 Keski-Suomi";"Maapinta-ala, km²";16042.53
+"FI199 Etelä-Pohjanmaa";"Maapinta-ala, km²";13798.46
+"FI19A Pohjanmaa";"Maapinta-ala, km²";7402.92
+"FI196 Satakunta";"Maapinta-ala, km²";7823.26
+"FI19B Pirkanmaa";"Maapinta-ala, km²";13248.86
+"FI1B Helsinki-Uusimaa";"Maapinta-ala, km²";9106.77
+"FI1B1 Helsinki-Uusimaa";"Maapinta-ala, km²";9106.77
+"FI1C Etelä-Suomi";"Maapinta-ala, km²";31472.71
+"FI1C1 Varsinais-Suomi";"Maapinta-ala, km²";10671.88
+"FI1C2 Kanta-Häme";"Maapinta-ala, km²";5199.48
+"FI1C6 Päijät-Häme";"Maapinta-ala, km²";5715.30
+"FI1C7 Kymenlaakso";"Maapinta-ala, km²";4559.43
+"FI1C5 Etelä-Karjala";"Maapinta-ala, km²";5326.62
+"FI1D Pohjois- ja Itä-Suomi";"Maapinta-ala, km²";203159.89
+"FI1DA Etelä-Savo";"Maapinta-ala, km²";12277.72
+"FI1DB Pohjois-Savo";"Maapinta-ala, km²";17346.00
+"FI1DC Pohjois-Karjala";"Maapinta-ala, km²";18794.16
+"FI1D5 Keski-Pohjanmaa";"Maapinta-ala, km²";5020.40
+"FI1D7 Lappi";"Maapinta-ala, km²";92690.84
+"FI1D8 Kainuu";"Maapinta-ala, km²";20198.45
+"FI1D9 Pohjois-Pohjanmaa";"Maapinta-ala, km²";36832.32
+"FI2 ÅLAND";"Maapinta-ala, km²";1555.59
+"FI20 Åland";"Maapinta-ala, km²";1555.59
+"FI200 Åland";"Maapinta-ala, km²";1555.59
